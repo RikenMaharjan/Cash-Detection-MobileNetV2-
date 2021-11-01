@@ -3,3 +3,6 @@ This Project Scan a real time Video (Sequence of frames) ,creates a boundry on t
 
 # Pre-requisite
 OpenCV, Pretained Model(Preferably ; SSD-MobileNetV2), Tensorflow Object Detection API , Python 3.6 
+
+# INSPIRED BY
+Kshitiz Rimal - Cash Recognition for Visually Impaired
